@@ -1,13 +1,77 @@
 p
 {
-	background-color:antiquewhite;
-	width:700px;
+	
 	font-size:12pt;
-	color:blue;
+	color:black;
 }
 td
 {
 	font-size:12pt;
 	color:black;
 	
+}
+h3
+{
+	text-align: center;
+	color:red;
+}
+h2
+{
+	text-align: center;
+}
+@media screen and (min-width:200px){
+	
+.hakkimda {
+	width:1200px;
+	height:800px;
+	background:#666;
+	background-color:white;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px
+}
+
+}
+@media screen and (min-width:200px){
+	
+.ozgecmis {
+	width:800px;
+	height:600px;
+	background:#666;
+	background-color:white;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px
+}
+
+}
+@media screen and (min-width:200px){
+	
+.login {
+	width:400px;
+	height:300px;
+	background:#666;
+	background-color:white;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px
+}
+
+}
+@media screen and (min-width:200px){
+	
+.resim {
+	width:300px;
+	height:200px;
+	background:#666;
+	background-color:white;
+	font-family: Arial;
+	margin:0 auto;
+	margin-top:30px;
+	padding:20px
+}
+
 }
